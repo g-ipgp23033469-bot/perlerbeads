@@ -1,2 +1,2 @@
 # perlerbeads
-Peeler beads inventory
+Perler beads inventory
